@@ -1,0 +1,24 @@
+{
+  "name": "capra-2021-julekalender",
+  "version": "1.0.0",
+  "description": "Frontend for julekalender",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krissrex/capra-2021-julekalender.git"
+  },
+  "keywords": [
+    "capra",
+    "julekalender",
+    "frontend"
+  ],
+  "author": "Kristian Rekstad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krissrex/capra-2021-julekalender/issues"
+  },
+  "homepage": "https://github.com/krissrex/capra-2021-julekalender#readme"
+}
