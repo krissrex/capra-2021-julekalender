@@ -4,7 +4,8 @@
   "description": "Frontend for julekalender",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/krissrex/capra-2021-julekalender/issues"
   },
-  "homepage": "https://github.com/krissrex/capra-2021-julekalender#readme"
+  "homepage": "https://github.com/krissrex/capra-2021-julekalender#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
 }
